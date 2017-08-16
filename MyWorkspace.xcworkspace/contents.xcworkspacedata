@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:runtime/runtime.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:myapp2/myapp2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:app1/app1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:&#x7231;&#x62cd;&#x62cd;/&#x7231;&#x62cd;&#x62cd;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:mysdk/mysdk.xcodeproj">
+   </FileRef>
+</Workspace>
